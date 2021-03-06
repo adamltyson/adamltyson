@@ -32,36 +32,11 @@ I develop open-source neuroanatomy, electrophysiology and behaviour analysis sof
 
   ---
   
-  
+   <p>
+  <a href="https://github.com/brainglobe/bg-atlasapi"><img width="120" align='left' src="https://user-images.githubusercontent.com/13147259/110204174-b2b7fc00-7e69-11eb-9180-01def39c6228.png?raw=true">
+</p>
+
 
 
    ## Software
- ### Neuroanatomy
- Most neuroanatomy software I develop is part of the [BrainGlobe](https://docs.brainglobe.info/) suite of computational neuroanatomy tools
-
- <p>
-  <img width="120" align='left' src="https://user-images.githubusercontent.com/13147259/110204174-b2b7fc00-7e69-11eb-9180-01def39c6228.png?raw=true">
-</p>
-
-
-
-#### General
-
-* [BrainGlobe Atlas API](https://github.com/brainglobe/bg-atlasapi) - A lightweight python module to interact with atlases for systems neuroscience 
-
-
-<br>
-<br>
-
- <p>
-  <img width="140" align='left' src="https://user-images.githubusercontent.com/13147259/110203417-0a546880-7e66-11eb-80d1-fcedd789739a.png?raw=true">
-</p>
-
-
-#### Whole-brain microscopy analysis
-
-* [cellfinder](https://github.com/brainglobe/cellfinder) - Automated 3D cell detection and registration of whole-brain images ([preprint](https://doi.org/10.1101/2020.10.21.348771))
-* [brainreg](https://github.com/brainglobe/brainreg) - Automated 3D brain registration with support for multiple species and atlases
-
- ---
 
