@@ -31,12 +31,4 @@ I develop open-source neuroanatomy, electrophysiology and behaviour analysis sof
 
 
   
-<p>
-  <a href="https://github.com/brainglobe/bg-atlasapi"><img width="120" align='right' src="https://user-images.githubusercontent.com/13147259/110204174-b2b7fc00-7e69-11eb-9180-01def39c6228.png?raw=true">
-</p>
-
-<br>
-
-Most of the time I'm working on software within the [BrainGlobe](https://github.com/brainglobe) suite of computational neuroanatomy tools, such as [brainreg](https://github.com/brainglobe/brainreg) or [cellfinder](https://github.com/brainglobe/cellfinder).
-
 
