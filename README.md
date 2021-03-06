@@ -50,6 +50,9 @@ I develop open-source neuroanatomy, electrophysiology and behaviour analysis sof
 
 
 <br>
+<br>
+<br>
+
  <p>
   <img width="150" align='left' src="https://user-images.githubusercontent.com/13147259/110203417-0a546880-7e66-11eb-80d1-fcedd789739a.png?raw=true">
 </p>
