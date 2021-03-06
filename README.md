@@ -38,6 +38,19 @@ I develop open-source neuroanatomy, electrophysiology and behaviour analysis sof
    ### Software
 
  <p>
+  <img width="150" align='left' src="https://user-images.githubusercontent.com/13147259/110204174-b2b7fc00-7e69-11eb-9180-01def39c6228.png?raw=true">
+</p>
+
+
+
+#### Neuroanatomy
+
+
+* [BrainGlobe Atlas API](https://github.com/brainglobe/bg-atlasapi) - A lightweight python module to interact with atlases for systems neuroscience 
+
+
+
+ <p>
   <img width="150" align='left' src="https://user-images.githubusercontent.com/13147259/110203417-0a546880-7e66-11eb-80d1-fcedd789739a.png?raw=true">
 </p>
 
