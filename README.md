@@ -36,6 +36,7 @@ I develop open-source neuroanatomy, electrophysiology and behaviour analysis sof
 </p>
 
 <br>
+
 Most of the time I'm working on software within the [BrainGlobe](https://github.com/brainglobe) suite of computational neuroanatomy tools, such as [brainreg](https://github.com/brainglobe/brainreg) or [cellfinder](https://github.com/brainglobe/cellfinder).
 
 
