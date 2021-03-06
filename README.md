@@ -2,12 +2,6 @@
 # [![homepage](https://user-images.githubusercontent.com/13147259/110202418-53092300-7e60-11eb-9966-2ec36853297d.png)](https://adamltyson.com)
 
 
-<p>
-  <a href="https://adamltyson.com"><img width="150" align='right' src="https://user-images.githubusercontent.com/13147259/110202581-8e582180-7e61-11eb-8404-f8e9cc9a00f2.png"></a>
-</p>
-
-
-
 
 <p align='center'
   <a href="https://twitter.com/adamltyson"><img height="1" src="https://user-images.githubusercontent.com/13147259/110203215-bac16d00-7e64-11eb-83bf-84346d332222.png?raw=true"></a>
