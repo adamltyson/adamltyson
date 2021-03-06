@@ -1,9 +1,5 @@
 
-
-
 # [![homepage](https://user-images.githubusercontent.com/13147259/110202418-53092300-7e60-11eb-9966-2ec36853297d.png)](https://adamltyson.com)
-
-
 
 
 <p>
@@ -28,7 +24,3 @@ Hi 👋,
 I'm a software developer and neuroscientist at the [Sainsbury Wellcome Centre](https://www.sainsburywellcome.org/web/), [UCL](https://www.ucl.ac.uk).
 
 I develop open-source neuroanatomy, electrophysiology and behaviour analysis software for the neuroscience community.
-
-
-  
-
