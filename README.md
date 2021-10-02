@@ -15,6 +15,4 @@
 
 Hi 👋,
 
-I'm a neuroscientist and software developer at the [Sainsbury Wellcome Centre](https://www.sainsburywellcome.org/web/), [UCL](https://www.ucl.ac.uk).
-
-I develop open-source neuroanatomy, electrophysiology and behaviour analysis software.
+I'm Scientific Software Lead at the [Institute of Cancer Research](https://www.icr.ac.uk/). I also develop and maintain open-source neuroinformatics software.
