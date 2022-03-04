@@ -15,4 +15,4 @@
 
 Hi 👋,
 
-I'm Scientific Software Lead at the [Institute of Cancer Research](https://www.icr.ac.uk/). I also develop and maintain open-source neuroinformatics software.
+I'm the Scientific Software Lead at the [Institute of Cancer Research](https://www.icr.ac.uk/). I also develop and maintain open-source neuroinformatics software.
