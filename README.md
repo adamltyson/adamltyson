@@ -15,4 +15,4 @@
 
 Hi 👋,
 
-I'm the Head Research Engineer at the [Sainsbury Wellcome Centre](https://www.sainsburywellcome.org/web/), developing open-source neuroinformatics tools.
+I'm the Head Research Engineer and head of the Neuroinformatics Unit at the [Sainsbury Wellcome Centre](https://www.sainsburywellcome.org/web/) and [Gatsby Computational Neuroscience Unit](https://www.ucl.ac.uk/gatsby/), developing open-source neuroinformatics tools.
