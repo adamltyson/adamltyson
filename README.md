@@ -4,4 +4,4 @@
 
 Hi 👋,
 
-I'm the Head Research Engineer and Head of the [Neuroinformatics Unit](https://neuroinformatics.dev/) at the [Sainsbury Wellcome Centre](https://www.sainsburywellcome.org/web/) and [Gatsby Computational Neuroscience Unit](https://www.ucl.ac.uk/gatsby/), developing open-source software for neuroscience.
+I'm the Head Research Engineer and Head of the [Neuroinformatics Unit](https://neuroinformatics.dev/) at the [Sainsbury Wellcome Centre](https://www.sainsburywellcome.org/web/) and [Gatsby Computational Neuroscience Unit](https://www.ucl.ac.uk/gatsby/), developing open-source software for neuroscience. I also lead the [BrainGlobe](https://brainglobe.info/) computational neuroanatomy intiative. 
